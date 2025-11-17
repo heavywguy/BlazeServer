@@ -1,0 +1,18 @@
+#Main Settings
+
+LogLevel=1
+NATType=0
+TimeCheckInterval=400000
+WriteTimeout=4000
+ReadTimeout=4000
+UseClientMetrics=0
+ServerListeningPort=42128
+ClientListeningPort=42129
+dbhost=127.0.0.1
+dbname=bf3lan
+dbuser=root
+dbpass =root
+dbConnectionPort=3306
+UseLocalPlayerAlgorithm=1
+online_access=1
+online_access2=1
